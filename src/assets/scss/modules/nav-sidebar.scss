@@ -1,0 +1,10 @@
+.nav-sidebar {
+  display: grid;
+  align-content: flex-start;
+  gap: 24px;
+  &__user {
+    margin-left: 8px;
+  }
+
+  &__nav-group {}
+}
